@@ -16,7 +16,9 @@
     Barplots
 
 3.Word Embeddings used to convert words to features for our Machine Learning Model
+    
     Bag-of-Words
+    
     TF-IDF
 
 4.Machine Learning Models used
